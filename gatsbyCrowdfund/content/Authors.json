@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Petrov",
+        "email": "petrov@yandex.ru",
+        "avatar": "photo.png",
+        "brief": "Good"
+    },
+    {
+        "id": 2,
+        "name": "Ivanov",
+        "email": "ivanov@yandex.ru",
+        "avatar": "photo.png",
+        "brief": "Very Good"
+    },
+    {
+        "id": 3,
+        "name": "Sidorov",
+        "email": "sidorov@yandex.ru",
+        "avatar": "photo.png",
+        "brief": "Greatest"
+    },
+    {
+        "id": 4,
+        "name": "Semenov",
+        "email": "semenov@yandex.ru",
+        "avatar": "photo.png",
+        "brief": "Greatest"
+    }
+]
